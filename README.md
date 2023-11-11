@@ -3,6 +3,7 @@
 
 SwarnoBot is a user-friendly news research tool designed for effortless information retrieval. Users can input article URLs and ask questions to receive relevant insights from the stock market and financial domain.
 
+<img width="955" alt="image" src="https://github.com/Swarnavo09/News-Research-Tool-Swarnobot/assets/69708467/dae85c14-5f62-4fd9-8ac2-5fff597f4dd6">
 
 
 ## Features
